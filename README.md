@@ -30,10 +30,12 @@ Cómo se realizó la investigación:
 - limites-legales.md — marco ético y legal aplicado
 
 · evidencias/
-Espacio reservado para:
-- Capturas relevantes
-- Resultados de herramientas
-- Material de apoyo
+Capturas relevantes, imágenes extraídas del PDF y de fuentes abiertas que ilustran:
+  - cronología del ataque  
+  - puntos de intrusión  
+  - rutas de escape  
+  - sospechosos  
+  - análisis OSINT y web  
 
 # Técnicas OSINT aplicadas
 - OSINT de identidades y alias
