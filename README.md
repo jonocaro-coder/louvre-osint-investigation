@@ -2,6 +2,12 @@
 Investigación OSINT completa basada exclusivamente en fuentes abiertas para reconstruir el robo de las Joyas de la Corona en el Museo del Louvre.
 El proyecto analiza la cronología del ataque, identifica a los sospechosos, evalúa fallos de seguridad física y digital, y revisa la infraestructura web del museo para entender cómo un incidente de este nivel pudo ocurrir.
 
+## 📄 Presentación completa en PDF
+
+Puedes ver o descargar la presentación completa aquí:
+
+[Abrir presentación OSINT (PDF)](docs/ROBO_EN_EL_LOUVRE_JON_ORMAECHEA_V2.pdf)
+
 # Objetivo del proyecto
 Este trabajo busca demostrar cómo un analista puede:
 - Correlacionar información dispersa procedente de medios, redes sociales y fuentes públicas.
@@ -45,6 +51,3 @@ ANÁLISIS WEB
 Jon Ormaechea Caro
 Analista de Ciberseguridad orientado a SOC y OSINT
 Enfocado en monitorización, análisis de alertas, investigación y documentación técnica.
-
-# Presentación completa
-La presentación en PDF con el análisis detallado se encuentra en la carpeta docs/.
