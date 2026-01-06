@@ -1,17 +1,18 @@
 # louvre-osint-investigation
-Investigación OSINT completa basada exclusivamente en fuentes abiertas para reconstruir el robo de las Joyas de la Corona en el Museo del Louvre.
-El proyecto analiza la cronología del ataque, identifica a los sospechosos, evalúa fallos de seguridad física y digital, y revisa la infraestructura web del museo para entender cómo un incidente de este nivel pudo ocurrir.
+Este proyecto reconstruye el robo de las Joyas de la Corona del Museo del Louvre (octubre de 2025) utilizando únicamente fuentes abiertas OSINT y técnicas de análisis pasivo.
+Incluye una investigación completa, un laboratorio virtual que simula la arquitectura digital del museo y un análisis de riesgos físicos/digitales combinados.
 
 ## 📄 Presentación completa en PDF
 
 [Abrir presentación OSINT (PDF)](docs/ROBO_EN_EL_LOUVRE_JON_ORMAECHEA_V2.pdf)
 
 # Objetivo del proyecto
-Este trabajo busca demostrar cómo un analista puede:
-- Correlacionar información dispersa procedente de medios, redes sociales y fuentes públicas.
-- Reconstruir un incidente real aplicando metodología OSINT.
-- Identificar fallos de seguridad física, digital y organizativa.
-- Extraer lecciones aplicables a entornos SOC y equipos de respuesta ante incidentes.
+- Analizar el robo del Louvre mediante información OSINT verificada.
+- Reconstruir la cronología del ataque paso a paso.
+- Identificar a los sospechosos y su huella digital.
+- Evaluar la infraestructura tecnológica del museo desde un enfoque pasivo.
+- Diseñar un laboratorio virtual que simula el entorno corporativo del museo.
+- Extraer lecciones aplicables a ciberseguridad, gestión de riesgos y respuesta ante incidentes.
 
 # Contenido del repositorio
 · docs/
@@ -26,12 +27,12 @@ Documentación completa del caso:
 
 · metodologia/
 Cómo se realizó la investigación:
-- herramientas-osint.md: herramientas utilizadas y resultados
+- herramientas-osint.md: herramientas utilizadas y su propósito
 - flujo-investigacion.md: proceso paso a paso
-- limites-legales.md: marco ético y legal aplicado
+- limites-legales.md: marco ético y legal del análisis OSINT
 
-· evidencias/
-Capturas relevantes, imágenes extraídas del PDF y de fuentes abiertas que ilustran:
+· evidencias/capturas/
+Material visual que apoya el análisis:
   - cronología del ataque  
   - puntos de intrusión  
   - rutas de escape  
@@ -81,6 +82,15 @@ Toda la investigación se realizó:
 - Todo se basa en noticias y fuentes abiertas.
 - El laboratorio es una simulación, no una reproducción real.
 
+# Laboratorio virtual
+El proyecto incluye un laboratorio que simula la arquitectura digital del museo, con dos dominios, máquinas Windows 2000/2003/2022, cámaras vulnerables y estaciones de trabajo.
+Este entorno permite reproducir de forma didáctica:
+- Pivoting
+- Movimiento lateral
+- Escalada de privilegios
+- Análisis de dominios heredados
+- Riesgos de interconexión entre sistemas modernos y legacy
+
 # Lecciones clave para ciberseguridad
 - La seguridad física y la digital están completamente interconectadas.
 - La obsolescencia tecnológica puede convertir cualquier infraestructura en un objetivo vulnerable.
@@ -98,3 +108,6 @@ Estas mejoras permitirán que el proyecto evolucione hacia un recurso didáctico
 Jon Ormaechea Caro
 Analista de Ciberseguridad orientado a SOC y OSINT
 Enfocado en monitorización, análisis de alertas, investigación y documentación técnica.
+Contacto
+- Github:@jonocaro-coder
+- Linkedin:www.linkedin.com/in/jonormaecheacaro
