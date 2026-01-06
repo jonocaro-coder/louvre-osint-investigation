@@ -13,13 +13,59 @@ Este trabajo busca demostrar cómo un analista puede:
 - Identificar fallos de seguridad física, digital y organizativa.
 - Extraer lecciones aplicables a entornos SOC y equipos de respuesta ante incidentes.
 
+# Estructura del repositorio
+louvre-osint-investigation/
+│
+├── README.md
+├── docs/
+│   ├── ROBO_EN_EL_LOUVRE_JON_ORMAECHEA_V2.pdf
+│   ├── cronologia.md
+│   ├── sospechosos.md
+│   ├── analisis-osint.md
+│   ├── analisis-web.md
+│   └── lecciones.md
+│
+├── metodologia/
+│   ├── herramientas-osint.md
+│   ├── flujo-investigacion.md
+│   └── limites-legales.md
+│
+└── evidencias/
+    ├── capturas/
+    └── herramientas/
+
 # Contenido del repositorio
-- Presentación en PDF con la investigación completa
-- Cronología detallada del ataque
-- Identificación de sospechosos y análisis de perfiles
-- Análisis OSINT (herramientas, fuentes, correlación de datos)
-- Análisis Web del dominio oficial del Louvre
-- Lecciones aprendidas para ciberseguridad y gestión de riesgos
+· docs/
+Documentación completa del caso:
+- cronología.md — reconstrucción minuto a minuto del ataque
+- sospechosos.md — identificación y análisis OSINT de los detenidos
+- analisis-osint.md — análisis físico, digital y contextual del robo
+- analisis-web.md — fingerprinting y análisis pasivo del dominio louvre.fr
+- lecciones.md — aprendizajes aplicables a ciberseguridad y seguridad física
+- PDF original con la presentación completa del caso
+
+· metodologia/
+Cómo se realizó la investigación:
+- herramientas-osint.md — herramientas utilizadas y resultados
+- flujo-investigacion.md — proceso paso a paso
+- limites-legales.md — marco ético y legal aplicado
+
+· evidencias/
+Espacio reservado para:
+- Capturas relevantes
+- Resultados de herramientas
+- Material de apoyo
+
+# Técnicas OSINT aplicadas
+- OSINT de identidades y alias
+- Análisis de redes sociales y contenido archivado
+- Verificación audiovisual
+- Análisis geoespacial
+- Análisis de infraestructura web
+- Revisión de auditorías de seguridad filtradas
+- Correlación temporal y espacial
+- Análisis de vehículos y matrículas
+- Investigación de herramientas y equipamiento utilizado
 
 # Herramientas y técnicas utilizadas
 OSINT
@@ -38,6 +84,15 @@ ANÁLISIS WEB
 - WebCheck
 - Fingerprinting tecnológico
 - SQLmap (solo análisis pasivo/no intrusivo)
+
+# Marco ético y legal
+Toda la investigación se realizó:
+- Sin técnicas intrusivas
+- Sin escaneos activos
+- Sin explotación de vulnerabilidades
+- Sin acceso a información privada
+- Usando exclusivamente fuentes abiertas
+- Con un propósito educativo y profesional
 
 # Lecciones clave para ciberseguridad
 - La seguridad física y la digital están completamente interconectadas.
