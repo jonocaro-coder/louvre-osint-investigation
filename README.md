@@ -16,18 +16,19 @@ Este trabajo busca demostrar cómo un analista puede:
 # Contenido del repositorio
 · docs/
 Documentación completa del caso:
-- cronología.md — reconstrucción minuto a minuto del ataque
-- sospechosos.md — identificación y análisis OSINT de los detenidos
-- analisis-osint.md — análisis físico, digital y contextual del robo
-- analisis-web.md — fingerprinting y análisis pasivo del dominio louvre.fr
-- lecciones.md — aprendizajes aplicables a ciberseguridad y seguridad física
+- cronología.md: reconstrucción minuto a minuto del ataque
+- sospechosos.md: identificación y análisis OSINT de los detenidos
+- analisis-osint.md: análisis físico, digital y contextual del robo
+- analisis-web.md: fingerprinting y análisis pasivo del dominio louvre.fr
+- lecciones.md: aprendizajes aplicables a ciberseguridad y seguridad física
+- esquema-laboratorio.md: descripción del laboratorio virtual utilizado para simular la arquitectura del museo y reproducir un ataque 
 - PDF original con la presentación completa del caso
 
 · metodologia/
 Cómo se realizó la investigación:
-- herramientas-osint.md — herramientas utilizadas y resultados
-- flujo-investigacion.md — proceso paso a paso
-- limites-legales.md — marco ético y legal aplicado
+- herramientas-osint.md: herramientas utilizadas y resultados
+- flujo-investigacion.md: proceso paso a paso
+- limites-legales.md: marco ético y legal aplicado
 
 · evidencias/
 Capturas relevantes, imágenes extraídas del PDF y de fuentes abiertas que ilustran:
