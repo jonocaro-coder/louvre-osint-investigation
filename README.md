@@ -76,11 +76,23 @@ Toda la investigación se realizó:
 - Usando exclusivamente fuentes abiertas
 - Con un propósito educativo y profesional
 
+# Limitaciones del análisis
+- No hay acceso a fuentes privadas.
+- Todo se basa en noticias y fuentes abiertas.
+- El laboratorio es una simulación, no una reproducción real.
+
 # Lecciones clave para ciberseguridad
 - La seguridad física y la digital están completamente interconectadas.
 - La obsolescencia tecnológica puede convertir cualquier infraestructura en un objetivo vulnerable.
 - La información pública (rutinas, proveedores, fallos previos) puede ser suficiente para planificar un ataque.
 - La documentación, la correlación de datos y la verificación son habilidades esenciales para un analista SOC.
+
+# Próximos pasos
+
+Este proyecto está diseñado para seguir creciendo y servir como base para futuros análisis OSINT y ejercicios de laboratorio. Algunas mejoras previstas son:
+- Ampliar el laboratorio virtual incorporando más escenarios de movimiento lateral, segmentación de red y simulación de fallos de seguridad.
+- Automatizar parte del análisis mediante scripts que faciliten búsquedas iniciales, recopilación de metadatos y extracción de información pública.
+Estas mejoras permitirán que el proyecto evolucione hacia un recurso didáctico más completo, útil tanto para estudiantes como para profesionales de ciberseguridad.
 
 # Autor
 Jon Ormaechea Caro
