@@ -13,27 +13,6 @@ Este trabajo busca demostrar cómo un analista puede:
 - Identificar fallos de seguridad física, digital y organizativa.
 - Extraer lecciones aplicables a entornos SOC y equipos de respuesta ante incidentes.
 
-# Estructura del repositorio
-louvre-osint-investigation/
-│
-├── README.md
-├── docs/
-│   ├── ROBO_EN_EL_LOUVRE_JON_ORMAECHEA_V2.pdf
-│   ├── cronologia.md
-│   ├── sospechosos.md
-│   ├── analisis-osint.md
-│   ├── analisis-web.md
-│   └── lecciones.md
-│
-├── metodologia/
-│   ├── herramientas-osint.md
-│   ├── flujo-investigacion.md
-│   └── limites-legales.md
-│
-└── evidencias/
-    ├── capturas/
-    └── herramientas/
-
 # Contenido del repositorio
 · docs/
 Documentación completa del caso:
