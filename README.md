@@ -4,8 +4,6 @@ El proyecto analiza la cronología del ataque, identifica a los sospechosos, eva
 
 ## 📄 Presentación completa en PDF
 
-Puedes ver o descargar la presentación completa aquí:
-
 [Abrir presentación OSINT (PDF)](docs/ROBO_EN_EL_LOUVRE_JON_ORMAECHEA_V2.pdf)
 
 # Objetivo del proyecto
